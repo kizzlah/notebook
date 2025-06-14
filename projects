@@ -1,5 +1,20 @@
-coder server
-kizzy multi-modal assistant - web, docker
-monowrite - web, docker
-cipher - code converter
-leon - ai
+learn: how to hide/remove commits from repos if they're coming from firebase (how embarassing...)
+
+
+
+gemini
+  gemini-cli: tui cli AI chat interface with Google Gemini; utilizing the free API key as much as possible
+
+
+
+github
+  coder-server
+  leon-ai
+
+
+
+firebase
+  cipher: web-based text editor
+  kizzy: multi-modal assistant; cannot seem to find now; accidentally deleted? :/
+  monowrite: original web-based text editor; files were deleted by mistake and project was lost
+  cipher: web-based text editor
